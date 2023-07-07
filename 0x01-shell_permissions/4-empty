@@ -1,2 +1,2 @@
 #!/bim/bash
-cow
+touch hello
